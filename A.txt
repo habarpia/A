@@ -2,3 +2,5 @@ committi A-repositorioon
 eka muutos tägitehtävään
 toka muutos tägitehtävään
 kolmas muutos tägitehtävään
+
+muutos stash-tehtävään
